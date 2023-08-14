@@ -12,3 +12,10 @@ The framework for ethical reasoning attempts at building a character for an auto
 
 ----
 - Foresight API (f-API)
+
+
+### Downstream dependencies of feras
+
+- [Lawyer Bot](https://github.com/rahulagarwal13/lawyer-ai) 
+- [Nurse Bot](https://github.com/rahulagarwal13/nurse-ai)
+- [Chatgpt Plugins](https://github.com/rahulagarwal13/chatgpt-plugins)
